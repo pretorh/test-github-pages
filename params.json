@@ -1,0 +1,6 @@
+{
+  "name": "Test-GitHub-pages",
+  "tagline": "Project to test https://pages.github.com/",
+  "body": "### Test Automatic Page Generator\r\n\r\nHello world!\r\n\r\nFrom [github pages test repo](http://pretorh.github.io/test-github-pages)\r\n\r\nHosted on github.io on [http://pretorh.github.io/test-github-pages/](http://pretorh.github.io/test-github-pages/)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
